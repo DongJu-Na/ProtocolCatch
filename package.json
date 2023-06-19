@@ -1,0 +1,22 @@
+{
+  "name": "protocolcatch",
+  "version": "1.0.0",
+  "description": "프로토콜 감지",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DongJu-Na/ProtocolCatch.git"
+  },
+  "keywords": [
+    "학습용"
+  ],
+  "author": "ndj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DongJu-Na/ProtocolCatch/issues"
+  },
+  "homepage": "https://github.com/DongJu-Na/ProtocolCatch#readme"
+}
