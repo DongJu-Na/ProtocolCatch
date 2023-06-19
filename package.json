@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/DongJu-Na/ProtocolCatch/issues"
   },
-  "homepage": "https://github.com/DongJu-Na/ProtocolCatch#readme"
+  "homepage": "https://github.com/DongJu-Na/ProtocolCatch#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
