@@ -20,6 +20,10 @@
   },
   "homepage": "https://github.com/DongJu-Na/ProtocolCatch#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "bonjour": "^3.5.0",
+    "express": "^4.18.2",
+    "node-nmap": "^4.0.0",
+    "node-ssdp": "^4.0.1",
+    "node-wifi": "^2.0.16"
   }
 }
